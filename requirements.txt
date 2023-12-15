@@ -1,3 +1,5 @@
+langchain==0.0.338
+openai==0.28.1
 Flask==3.0.0
 python-dotenv==1.0.0
 twilio==8.10.2
